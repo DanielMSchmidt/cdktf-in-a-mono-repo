@@ -1,0 +1,10 @@
+{
+  "language": "typescript",
+  "installCommand": "cd ../../ && yarn install",
+  "app": "npx ts-node main.ts",
+  "projectId": "2d00c982-feed-4f21-a00c-978947cafcc6",
+  "sendCrashReports": "true",
+  "terraformProviders": [],
+  "terraformModules": [],
+  "context": {}
+}

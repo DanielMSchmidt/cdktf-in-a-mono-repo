@@ -1,0 +1,19 @@
+{
+  "name": "project-b",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Daniel Schmidt <danielmschmidt92@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/project-b.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/project-b.test.js"
+  }
+}
